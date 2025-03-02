@@ -1,0 +1,9 @@
+apache-beam[gcp]
+opencv-python
+numpy
+torch
+torchvision
+ultralytics
+timm
+google-cloud-storage
+google-cloud-pubsub
